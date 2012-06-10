@@ -8,7 +8,7 @@ using Hooks;
 
 namespace Flogoff
 {
-    [APIVersion(1, 11)]
+    [APIVersion(1, 12)]
 
     public class FLogoff : TerrariaPlugin
     {
